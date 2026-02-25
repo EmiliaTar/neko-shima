@@ -1,0 +1,13 @@
+{
+  "name": "neko-shima",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Japanese writing and vocabulary trainer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
