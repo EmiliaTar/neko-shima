@@ -1,0 +1,145 @@
+{
+  "categories": [
+    {
+      "id": "numbers",
+      "name": "Numbers",
+      "entries": [
+        {"kanji": "一", "meaning": "one", "kunyomi": "hito", "onyomi": "ichi", "level": "Basic", "examples": [{"word": "一人", "reading": "ひとり", "translation": "one person"}, {"word": "一日", "reading": "いちにち", "translation": "one day"}]},
+        {"kanji": "二", "meaning": "two", "kunyomi": "futa", "onyomi": "ni", "level": "Basic", "examples": [{"word": "二人", "reading": "ふたり", "translation": "two people"}, {"word": "二月", "reading": "にがつ", "translation": "February"}]},
+        {"kanji": "三", "meaning": "three", "kunyomi": "mi", "onyomi": "san", "level": "Basic", "examples": [{"word": "三日", "reading": "みっか", "translation": "third day / three days"}, {"word": "三年", "reading": "さんねん", "translation": "three years"}]},
+        {"kanji": "四", "meaning": "four", "kunyomi": "yo", "onyomi": "shi", "level": "Basic", "examples": [{"word": "四日", "reading": "よっか", "translation": "fourth day"}, {"word": "四月", "reading": "しがつ", "translation": "April"}]},
+        {"kanji": "五", "meaning": "five", "kunyomi": "itsu", "onyomi": "go", "level": "Basic", "examples": [{"word": "五日", "reading": "いつか", "translation": "fifth day"}, {"word": "五分", "reading": "ごふん", "translation": "five minutes"}]},
+        {"kanji": "六", "meaning": "six", "kunyomi": "mu", "onyomi": "roku", "level": "Basic", "examples": [{"word": "六時", "reading": "ろくじ", "translation": "six o'clock"}, {"word": "六月", "reading": "ろくがつ", "translation": "June"}]},
+        {"kanji": "七", "meaning": "seven", "kunyomi": "nana", "onyomi": "shichi", "level": "Basic", "examples": [{"word": "七日", "reading": "なのか", "translation": "seventh day"}, {"word": "七時", "reading": "しちじ", "translation": "seven o'clock"}]},
+        {"kanji": "八", "meaning": "eight", "kunyomi": "ya", "onyomi": "hachi", "level": "Basic", "examples": [{"word": "八日", "reading": "ようか", "translation": "eighth day"}, {"word": "八百", "reading": "はっぴゃく", "translation": "eight hundred"}]},
+        {"kanji": "九", "meaning": "nine", "kunyomi": "kokono", "onyomi": "kyuu", "level": "Basic", "examples": [{"word": "九日", "reading": "ここのか", "translation": "ninth day"}, {"word": "九時", "reading": "くじ", "translation": "nine o'clock"}]},
+        {"kanji": "十", "meaning": "ten", "kunyomi": "tou", "onyomi": "juu", "level": "Basic", "examples": [{"word": "十日", "reading": "とおか", "translation": "tenth day"}, {"word": "十円", "reading": "じゅうえん", "translation": "ten yen"}]},
+        {"kanji": "百", "meaning": "hundred", "kunyomi": "—", "onyomi": "hyaku", "level": "Basic", "examples": [{"word": "百円", "reading": "ひゃくえん", "translation": "one hundred yen"}]},
+        {"kanji": "千", "meaning": "thousand", "kunyomi": "—", "onyomi": "sen", "level": "Basic", "examples": [{"word": "千円", "reading": "せんえん", "translation": "one thousand yen"}]},
+        {"kanji": "万", "meaning": "ten thousand", "kunyomi": "—", "onyomi": "man", "level": "Basic", "examples": [{"word": "一万円", "reading": "いちまんえん", "translation": "ten thousand yen"}]},
+        {"kanji": "円", "meaning": "yen, circle", "kunyomi": "maru", "onyomi": "en", "level": "Basic", "examples": [{"word": "円い", "reading": "まるい", "translation": "round"}, {"word": "百円", "reading": "ひゃくえん", "translation": "100 yen"}]}
+      ]
+    },
+    {
+      "id": "time",
+      "name": "Time",
+      "entries": [
+        {"kanji": "日", "meaning": "day, sun", "kunyomi": "hi", "onyomi": "nichi / jitsu", "level": "Basic", "examples": [{"word": "日本", "reading": "にほん", "translation": "Japan"}, {"word": "休日", "reading": "きゅうじつ", "translation": "holiday"}]},
+        {"kanji": "週", "meaning": "week", "kunyomi": "—", "onyomi": "shuu", "level": "Basic", "examples": [{"word": "今週", "reading": "こんしゅう", "translation": "this week"}]},
+        {"kanji": "月", "meaning": "month, moon", "kunyomi": "tsuki", "onyomi": "getsu / gatsu", "level": "Basic", "examples": [{"word": "月曜日", "reading": "げつようび", "translation": "Monday"}, {"word": "一か月", "reading": "いっかげつ", "translation": "one month"}]},
+        {"kanji": "年", "meaning": "year", "kunyomi": "toshi", "onyomi": "nen", "level": "Basic", "examples": [{"word": "今年", "reading": "ことし", "translation": "this year"}, {"word": "三年", "reading": "さんねん", "translation": "three years"}]},
+        {"kanji": "時", "meaning": "time, hour", "kunyomi": "toki", "onyomi": "ji", "level": "Basic", "examples": [{"word": "何時", "reading": "なんじ", "translation": "what time"}]},
+        {"kanji": "分", "meaning": "minute, part", "kunyomi": "—", "onyomi": "fun / bun", "level": "Basic", "examples": [{"word": "十分", "reading": "じゅっぷん", "translation": "ten minutes"}]},
+        {"kanji": "半", "meaning": "half", "kunyomi": "—", "onyomi": "han", "level": "Basic", "examples": [{"word": "三時半", "reading": "さんじはん", "translation": "3:30"}]},
+        {"kanji": "間", "meaning": "interval, space", "kunyomi": "aida / ma", "onyomi": "kan", "level": "Basic", "examples": [{"word": "時間", "reading": "じかん", "translation": "time"}]},
+        {"kanji": "午", "meaning": "noon", "kunyomi": "—", "onyomi": "go", "level": "Basic", "examples": [{"word": "午後", "reading": "ごご", "translation": "afternoon"}]},
+        {"kanji": "前", "meaning": "before, front", "kunyomi": "mae", "onyomi": "zen", "level": "Basic", "examples": [{"word": "午前", "reading": "ごぜん", "translation": "morning (AM)"}]},
+        {"kanji": "後", "meaning": "after, back", "kunyomi": "ato / ushiro", "onyomi": "go / kou", "level": "Basic", "examples": [{"word": "午後", "reading": "ごご", "translation": "afternoon (PM)"}]},
+        {"kanji": "今", "meaning": "now", "kunyomi": "ima", "onyomi": "kon", "level": "Basic", "examples": [{"word": "今", "reading": "いま", "translation": "now"}]},
+        {"kanji": "先", "meaning": "ahead, previous", "kunyomi": "saki", "onyomi": "sen", "level": "Basic", "examples": [{"word": "先生", "reading": "せんせい", "translation": "teacher"}]},
+        {"kanji": "来", "meaning": "come, next", "kunyomi": "kuru / ki", "onyomi": "rai", "level": "Basic", "examples": [{"word": "来年", "reading": "らいねん", "translation": "next year"}]},
+        {"kanji": "毎", "meaning": "every", "kunyomi": "—", "onyomi": "mai", "level": "Basic", "examples": [{"word": "毎日", "reading": "まいにち", "translation": "every day"}]},
+        {"kanji": "何", "meaning": "what", "kunyomi": "nani", "onyomi": "ka / nan", "level": "Basic", "examples": [{"word": "何時", "reading": "なんじ", "translation": "what time"}]}
+      ]
+    },
+    {
+      "id": "family-and-friends",
+      "name": "Family and friends",
+      "entries": [
+        {"kanji": "人", "meaning": "person", "kunyomi": "hito", "onyomi": "jin / nin", "level": "Basic", "examples": [{"word": "日本人", "reading": "にほんじん", "translation": "Japanese person"}]},
+        {"kanji": "男", "meaning": "man, male", "kunyomi": "otoko", "onyomi": "dan / nan", "level": "Basic", "examples": [{"word": "男の子", "reading": "おとこのこ", "translation": "boy"}]},
+        {"kanji": "女", "meaning": "woman, female", "kunyomi": "onna", "onyomi": "jo", "level": "Basic", "examples": [{"word": "女の子", "reading": "おんなのこ", "translation": "girl"}]},
+        {"kanji": "子", "meaning": "child", "kunyomi": "ko", "onyomi": "shi", "level": "Basic", "examples": [{"word": "子ども", "reading": "こども", "translation": "child"}]},
+        {"kanji": "父", "meaning": "father", "kunyomi": "chichi", "onyomi": "fu", "level": "Basic", "examples": [{"word": "お父さん", "reading": "おとうさん", "translation": "father"}]},
+        {"kanji": "母", "meaning": "mother", "kunyomi": "haha", "onyomi": "bo", "level": "Basic", "examples": [{"word": "お母さん", "reading": "おかあさん", "translation": "mother"}]},
+        {"kanji": "友", "meaning": "friend", "kunyomi": "tomo", "onyomi": "yuu", "level": "Basic", "examples": [{"word": "友だち", "reading": "ともだち", "translation": "friend"}]}
+      ]
+    },
+    {
+      "id": "body-parts",
+      "name": "Body parts",
+      "entries": [
+        {"kanji": "手", "meaning": "hand", "kunyomi": "te", "onyomi": "shu", "level": "Basic", "examples": [{"word": "手紙", "reading": "てがみ", "translation": "letter"}]},
+        {"kanji": "足", "meaning": "leg, foot", "kunyomi": "ashi", "onyomi": "soku", "level": "Basic", "examples": [{"word": "足音", "reading": "あしおと", "translation": "footsteps"}]},
+        {"kanji": "耳", "meaning": "ear", "kunyomi": "mimi", "onyomi": "ji", "level": "Basic", "examples": [{"word": "耳", "reading": "みみ", "translation": "ear"}]},
+        {"kanji": "目", "meaning": "eye", "kunyomi": "me", "onyomi": "moku / boku", "level": "Basic", "examples": [{"word": "目", "reading": "め", "translation": "eye"}]},
+        {"kanji": "口", "meaning": "mouth", "kunyomi": "kuchi", "onyomi": "kou / ku", "level": "Basic", "examples": [{"word": "入口", "reading": "いりぐち", "translation": "entrance"}]}
+      ]
+    },
+    {
+      "id": "nature",
+      "name": "Nature",
+      "entries": [
+        {"kanji": "金", "meaning": "gold, money", "kunyomi": "kane", "onyomi": "kin / kon", "level": "Basic", "examples": [{"word": "お金", "reading": "おかね", "translation": "money"}]},
+        {"kanji": "木", "meaning": "tree, wood", "kunyomi": "ki", "onyomi": "moku / boku", "level": "Basic", "examples": [{"word": "木", "reading": "き", "translation": "tree"}, {"word": "木曜日", "reading": "もくようび", "translation": "Thursday"}]},
+        {"kanji": "水", "meaning": "water", "kunyomi": "mizu", "onyomi": "sui", "level": "Basic", "examples": [{"word": "水", "reading": "みず", "translation": "water"}, {"word": "水曜日", "reading": "すいようび", "translation": "Wednesday"}]},
+        {"kanji": "火", "meaning": "fire", "kunyomi": "hi", "onyomi": "ka", "level": "Basic", "examples": [{"word": "火", "reading": "ひ", "translation": "fire"}, {"word": "火曜日", "reading": "かようび", "translation": "Tuesday"}]},
+        {"kanji": "土", "meaning": "earth, soil", "kunyomi": "tsuchi", "onyomi": "do / to", "level": "Basic", "examples": [{"word": "土", "reading": "つち", "translation": "soil"}, {"word": "土曜日", "reading": "どようび", "translation": "Saturday"}]},
+        {"kanji": "山", "meaning": "mountain", "kunyomi": "yama", "onyomi": "san / zan", "level": "Basic", "examples": [{"word": "山", "reading": "やま", "translation": "mountain"}, {"word": "火山", "reading": "かざん", "translation": "volcano"}]},
+        {"kanji": "川", "meaning": "river", "kunyomi": "kawa", "onyomi": "sen", "level": "Basic", "examples": [{"word": "川", "reading": "かわ", "translation": "river"}]},
+        {"kanji": "天", "meaning": "heaven, sky", "kunyomi": "—", "onyomi": "ten", "level": "Basic", "examples": [{"word": "天気", "reading": "てんき", "translation": "weather"}]},
+        {"kanji": "空", "meaning": "sky, empty", "kunyomi": "sora / a", "onyomi": "kuu", "level": "Basic", "examples": [{"word": "空", "reading": "そら", "translation": "sky"}]},
+        {"kanji": "気", "meaning": "air, spirit", "kunyomi": "—", "onyomi": "ki / ke", "level": "Basic", "examples": [{"word": "元気", "reading": "げんき", "translation": "healthy / energetic"}]},
+        {"kanji": "雨", "meaning": "rain", "kunyomi": "ame", "onyomi": "u", "level": "Basic", "examples": [{"word": "雨", "reading": "あめ", "translation": "rain"}]},
+        {"kanji": "電", "meaning": "electricity", "kunyomi": "—", "onyomi": "den", "level": "Basic", "examples": [{"word": "電車", "reading": "でんしゃ", "translation": "train"}]},
+        {"kanji": "魚", "meaning": "fish", "kunyomi": "sakana", "onyomi": "gyo", "level": "Basic", "examples": [{"word": "魚", "reading": "さかな", "translation": "fish"}]},
+        {"kanji": "花", "meaning": "flower", "kunyomi": "hana", "onyomi": "ka", "level": "Basic", "examples": [{"word": "花", "reading": "はな", "translation": "flower"}]}
+      ]
+    },
+    {
+      "id": "adjectives",
+      "name": "Adjectives",
+      "entries": [
+        {"kanji": "大", "meaning": "big, large", "kunyomi": "oo", "onyomi": "dai / tai", "level": "Basic", "examples": [{"word": "大きい", "reading": "おおきい", "translation": "big"}]},
+        {"kanji": "小", "meaning": "small, little", "kunyomi": "chiisai / ko", "onyomi": "shou", "level": "Basic", "examples": [{"word": "小さい", "reading": "ちいさい", "translation": "small"}]},
+        {"kanji": "多", "meaning": "many, frequent", "kunyomi": "oo", "onyomi": "ta", "level": "Basic", "examples": [{"word": "多い", "reading": "おおい", "translation": "many"}]},
+        {"kanji": "少", "meaning": "few, little", "kunyomi": "sukunai / suko", "onyomi": "shou", "level": "Basic", "examples": [{"word": "少ない", "reading": "すくない", "translation": "few"}]},
+        {"kanji": "古", "meaning": "old", "kunyomi": "furu", "onyomi": "ko", "level": "Basic", "examples": [{"word": "古い", "reading": "ふるい", "translation": "old"}]},
+        {"kanji": "新", "meaning": "new", "kunyomi": "atara / arata", "onyomi": "shin", "level": "Basic", "examples": [{"word": "新しい", "reading": "あたらしい", "translation": "new"}]},
+        {"kanji": "安", "meaning": "cheap, safe", "kunyomi": "yasu", "onyomi": "an", "level": "Basic", "examples": [{"word": "安い", "reading": "やすい", "translation": "cheap"}]},
+        {"kanji": "高", "meaning": "tall, high, expensive", "kunyomi": "taka", "onyomi": "kou", "level": "Basic", "examples": [{"word": "高い", "reading": "たかい", "translation": "expensive / high"}]},
+        {"kanji": "長", "meaning": "long", "kunyomi": "naga", "onyomi": "chou", "level": "Basic", "examples": [{"word": "長い", "reading": "ながい", "translation": "long"}]},
+        {"kanji": "白", "meaning": "white", "kunyomi": "shiro", "onyomi": "haku", "level": "Basic", "examples": [{"word": "白い", "reading": "しろい", "translation": "white"}]}
+      ]
+    },
+    {
+      "id": "verbs",
+      "name": "Verbs",
+      "entries": [
+        {"kanji": "見", "meaning": "see", "kunyomi": "mi", "onyomi": "ken", "level": "Basic", "examples": [{"word": "見る", "reading": "みる", "translation": "to see"}]},
+        {"kanji": "言", "meaning": "say", "kunyomi": "iu / koto", "onyomi": "gen", "level": "Basic", "examples": [{"word": "言う", "reading": "いう", "translation": "to say"}]},
+        {"kanji": "話", "meaning": "talk", "kunyomi": "hanasu / hanashi", "onyomi": "wa", "level": "Basic", "examples": [{"word": "話す", "reading": "はなす", "translation": "to speak"}]},
+        {"kanji": "聞", "meaning": "hear, ask", "kunyomi": "kiku", "onyomi": "bun / mon", "level": "Basic", "examples": [{"word": "聞く", "reading": "きく", "translation": "to listen"}]},
+        {"kanji": "読", "meaning": "read", "kunyomi": "yomu", "onyomi": "doku / toku", "level": "Basic", "examples": [{"word": "読む", "reading": "よむ", "translation": "to read"}]},
+        {"kanji": "書", "meaning": "write", "kunyomi": "kaku", "onyomi": "sho", "level": "Basic", "examples": [{"word": "書く", "reading": "かく", "translation": "to write"}]},
+        {"kanji": "飲", "meaning": "drink", "kunyomi": "nomu", "onyomi": "in", "level": "Basic", "examples": [{"word": "飲む", "reading": "のむ", "translation": "to drink"}]},
+        {"kanji": "食", "meaning": "eat, food", "kunyomi": "taberu / kuu", "onyomi": "shoku / jiki", "level": "Basic", "examples": [{"word": "食べる", "reading": "たべる", "translation": "to eat"}]},
+        {"kanji": "生", "meaning": "life, birth", "kunyomi": "i / u / haeru", "onyomi": "sei / shou", "level": "Basic", "examples": [{"word": "学生", "reading": "がくせい", "translation": "student"}]},
+        {"kanji": "入", "meaning": "enter", "kunyomi": "hairu / ireru", "onyomi": "nyuu", "level": "Basic", "examples": [{"word": "入る", "reading": "はいる", "translation": "to enter"}]},
+        {"kanji": "出", "meaning": "exit, leave", "kunyomi": "deru / dasu", "onyomi": "shutsu / sui", "level": "Basic", "examples": [{"word": "出る", "reading": "でる", "translation": "to leave"}]},
+        {"kanji": "行", "meaning": "go", "kunyomi": "iku / yuku", "onyomi": "kou / gyou", "level": "Basic", "examples": [{"word": "行く", "reading": "いく", "translation": "to go"}]},
+        {"kanji": "会", "meaning": "meet", "kunyomi": "au", "onyomi": "kai", "level": "Basic", "examples": [{"word": "会う", "reading": "あう", "translation": "to meet"}]},
+        {"kanji": "休", "meaning": "rest", "kunyomi": "yasumu", "onyomi": "kyuu", "level": "Basic", "examples": [{"word": "休む", "reading": "やすむ", "translation": "to rest"}]},
+        {"kanji": "立", "meaning": "stand", "kunyomi": "tatsu", "onyomi": "ritsu / ryuu", "level": "Basic", "examples": [{"word": "立つ", "reading": "たつ", "translation": "to stand"}]},
+        {"kanji": "買", "meaning": "buy", "kunyomi": "kau", "onyomi": "bai", "level": "Basic", "examples": [{"word": "買う", "reading": "かう", "translation": "to buy"}]}
+      ]
+    },
+    {
+      "id": "nouns",
+      "name": "Nouns",
+      "entries": [
+        {"kanji": "車", "meaning": "car", "kunyomi": "kuruma", "onyomi": "sha", "level": "Basic", "examples": [{"word": "車", "reading": "くるま", "translation": "car"}]},
+        {"kanji": "駅", "meaning": "station", "kunyomi": "—", "onyomi": "eki", "level": "Basic", "examples": [{"word": "駅", "reading": "えき", "translation": "station"}]},
+        {"kanji": "道", "meaning": "road, way", "kunyomi": "michi", "onyomi": "dou", "level": "Basic", "examples": [{"word": "道", "reading": "みち", "translation": "road"}]},
+        {"kanji": "本", "meaning": "book, origin", "kunyomi": "moto", "onyomi": "hon", "level": "Basic", "examples": [{"word": "本", "reading": "ほん", "translation": "book"}]},
+        {"kanji": "店", "meaning": "shop", "kunyomi": "mise", "onyomi": "ten", "level": "Basic", "examples": [{"word": "店", "reading": "みせ", "translation": "store"}]},
+        {"kanji": "社", "meaning": "company, shrine", "kunyomi": "yashiro", "onyomi": "sha", "level": "Basic", "examples": [{"word": "会社", "reading": "かいしゃ", "translation": "company"}]},
+        {"kanji": "国", "meaning": "country", "kunyomi": "kuni", "onyomi": "koku", "level": "Basic", "examples": [{"word": "国", "reading": "くに", "translation": "country"}]},
+        {"kanji": "名", "meaning": "name", "kunyomi": "na", "onyomi": "mei / myou", "level": "Basic", "examples": [{"word": "名前", "reading": "なまえ", "translation": "name"}]},
+        {"kanji": "語", "meaning": "language, word", "kunyomi": "kataru", "onyomi": "go", "level": "Basic", "examples": [{"word": "日本語", "reading": "にほんご", "translation": "Japanese language"}]},
+        {"kanji": "学", "meaning": "study", "kunyomi": "manabu", "onyomi": "gaku", "level": "Basic", "examples": [{"word": "学生", "reading": "がくせい", "translation": "student"}]},
+        {"kanji": "校", "meaning": "school", "kunyomi": "—", "onyomi": "kou", "level": "Basic", "examples": [{"word": "学校", "reading": "がっこう", "translation": "school"}]}
+      ]
+    }
+  ]
+}

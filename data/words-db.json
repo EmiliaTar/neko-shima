@@ -1,0 +1,1350 @@
+{
+  "entries": [
+    {
+      "level": "N5",
+      "jp": "会う",
+      "furigana": "あう",
+      "romaji": "au",
+      "en": "to meet",
+      "association": "meeting people",
+      "example": "友達に会う。",
+      "theme": "Actions & Verbs"
+    },
+    {
+      "level": "N5",
+      "jp": "青い",
+      "furigana": "あおい",
+      "romaji": "aoi",
+      "en": "blue",
+      "theme": "Adjectives & Feelings"
+    },
+    {
+      "level": "N5",
+      "jp": "赤い",
+      "furigana": "あかい",
+      "romaji": "akai",
+      "en": "red",
+      "theme": "Adjectives & Feelings"
+    },
+    {
+      "level": "N5",
+      "jp": "明るい",
+      "furigana": "あかるい",
+      "romaji": "akarui",
+      "en": "bright",
+      "theme": "Adjectives & Feelings"
+    },
+    {
+      "level": "N5",
+      "jp": "秋",
+      "furigana": "あき",
+      "romaji": "aki",
+      "en": "autumn",
+      "theme": "Nature & Weather"
+    },
+    {
+      "level": "N5",
+      "jp": "開く",
+      "furigana": "あく",
+      "romaji": "aku",
+      "en": "to open",
+      "theme": "Actions & Verbs"
+    },
+    {
+      "level": "N5",
+      "jp": "開ける",
+      "furigana": "あける",
+      "romaji": "akeru",
+      "en": "to open (something)",
+      "theme": "Actions & Verbs"
+    },
+    {
+      "level": "N5",
+      "jp": "朝",
+      "furigana": "あさ",
+      "romaji": "asa",
+      "en": "morning",
+      "theme": "Time & Dates"
+    },
+    {
+      "level": "N5",
+      "jp": "朝ご飯",
+      "furigana": "あさごはん",
+      "romaji": "asagohan",
+      "en": "breakfast",
+      "theme": "Food & Drink"
+    },
+    {
+      "level": "N5",
+      "jp": "足",
+      "furigana": "あし",
+      "romaji": "ashi",
+      "en": "leg, foot",
+      "theme": "Other"
+    },
+    {
+      "level": "N5",
+      "jp": "明日",
+      "furigana": "あした",
+      "romaji": "ashita",
+      "en": "tomorrow",
+      "theme": "Time & Dates"
+    },
+    {
+      "level": "N5",
+      "jp": "遊ぶ",
+      "furigana": "あそぶ",
+      "romaji": "asobu",
+      "en": "to play",
+      "theme": "Actions & Verbs"
+    },
+    {
+      "level": "N5",
+      "jp": "頭",
+      "furigana": "あたま",
+      "romaji": "atama",
+      "en": "head",
+      "theme": "Other"
+    },
+    {
+      "level": "N5",
+      "jp": "新しい",
+      "furigana": "あたらしい",
+      "romaji": "atarashii",
+      "en": "new",
+      "theme": "Adjectives & Feelings"
+    },
+    {
+      "level": "N5",
+      "jp": "暑い",
+      "furigana": "あつい",
+      "romaji": "atsui",
+      "en": "hot (weather)",
+      "theme": "Nature & Weather"
+    },
+    {
+      "level": "N5",
+      "jp": "後",
+      "furigana": "あと",
+      "romaji": "ato",
+      "en": "after",
+      "theme": "Time & Dates"
+    },
+    {
+      "level": "N5",
+      "jp": "兄",
+      "furigana": "あに",
+      "romaji": "ani",
+      "en": "older brother",
+      "theme": "People & Family"
+    },
+    {
+      "level": "N5",
+      "jp": "姉",
+      "furigana": "あね",
+      "romaji": "ane",
+      "en": "older sister",
+      "theme": "People & Family"
+    },
+    {
+      "level": "N5",
+      "jp": "浴びる",
+      "furigana": "あびる",
+      "romaji": "abiru",
+      "en": "to shower",
+      "theme": "Actions & Verbs"
+    },
+    {
+      "level": "N5",
+      "jp": "甘い",
+      "furigana": "あまい",
+      "romaji": "amai",
+      "en": "sweet",
+      "theme": "Food & Drink"
+    },
+    {
+      "level": "N5",
+      "jp": "雨",
+      "furigana": "あめ",
+      "romaji": "ame",
+      "en": "rain",
+      "theme": "Nature & Weather"
+    },
+    {
+      "level": "N5",
+      "jp": "洗う",
+      "furigana": "あらう",
+      "romaji": "arau",
+      "en": "to wash",
+      "theme": "Actions & Verbs"
+    },
+    {
+      "level": "N5",
+      "jp": "歩く",
+      "furigana": "あるく",
+      "romaji": "aruku",
+      "en": "to walk",
+      "theme": "Actions & Verbs"
+    },
+    {
+      "level": "N5",
+      "jp": "家",
+      "furigana": "いえ",
+      "romaji": "ie",
+      "en": "house",
+      "theme": "Home & Daily Life"
+    },
+    {
+      "level": "N5",
+      "jp": "行く",
+      "furigana": "いく",
+      "romaji": "iku",
+      "en": "to go",
+      "theme": "Actions & Verbs"
+    },
+    {
+      "level": "N5",
+      "jp": "池",
+      "furigana": "いけ",
+      "romaji": "ike",
+      "en": "pond",
+      "theme": "Nature & Weather"
+    },
+    {
+      "level": "N5",
+      "jp": "医者",
+      "furigana": "いしゃ",
+      "romaji": "isha",
+      "en": "doctor",
+      "theme": "People & Family"
+    },
+    {
+      "level": "N5",
+      "jp": "椅子",
+      "furigana": "いす",
+      "romaji": "isu",
+      "en": "chair",
+      "theme": "Home & Daily Life"
+    },
+    {
+      "level": "N5",
+      "jp": "忙しい",
+      "furigana": "いそがしい",
+      "romaji": "isogashii",
+      "en": "busy",
+      "theme": "Adjectives & Feelings"
+    },
+    {
+      "level": "N5",
+      "jp": "痛い",
+      "furigana": "いたい",
+      "romaji": "itai",
+      "en": "painful",
+      "theme": "Other"
+    },
+    {
+      "level": "N5",
+      "jp": "今",
+      "furigana": "いま",
+      "romaji": "ima",
+      "en": "now",
+      "theme": "Time & Dates"
+    },
+    {
+      "level": "N5",
+      "jp": "意味",
+      "furigana": "いみ",
+      "romaji": "imi",
+      "en": "meaning",
+      "theme": "Abstract & Society"
+    },
+    {
+      "level": "N5",
+      "jp": "入口",
+      "furigana": "いりぐち",
+      "romaji": "iriguchi",
+      "en": "entrance",
+      "theme": "Home & Daily Life"
+    },
+    {
+      "level": "N5",
+      "jp": "入れる",
+      "furigana": "いれる",
+      "romaji": "ireru",
+      "en": "to put in",
+      "theme": "Actions & Verbs"
+    },
+    {
+      "level": "N5",
+      "jp": "色",
+      "furigana": "いろ",
+      "romaji": "iro",
+      "en": "color",
+      "theme": "Home & Daily Life"
+    },
+    {
+      "level": "N5",
+      "jp": "色々",
+      "furigana": "いろいろ",
+      "romaji": "iroiro",
+      "en": "various",
+      "theme": "Other"
+    },
+    {
+      "level": "N5",
+      "jp": "上",
+      "furigana": "うえ",
+      "romaji": "ue",
+      "en": "up, above",
+      "theme": "Other"
+    },
+    {
+      "level": "N5",
+      "jp": "後ろ",
+      "furigana": "うしろ",
+      "romaji": "ushiro",
+      "en": "behind",
+      "theme": "Other"
+    },
+    {
+      "level": "N5",
+      "jp": "歌",
+      "furigana": "うた",
+      "romaji": "uta",
+      "en": "song",
+      "theme": "Other"
+    },
+    {
+      "level": "N5",
+      "jp": "歌う",
+      "furigana": "うたう",
+      "romaji": "utau",
+      "en": "to sing",
+      "theme": "Actions & Verbs"
+    },
+    {
+      "level": "N5",
+      "jp": "海",
+      "furigana": "うみ",
+      "romaji": "umi",
+      "en": "sea",
+      "theme": "Nature & Weather"
+    },
+    {
+      "level": "N5",
+      "jp": "売る",
+      "furigana": "うる",
+      "romaji": "uru",
+      "en": "to sell",
+      "theme": "Actions & Verbs"
+    },
+    {
+      "level": "N5",
+      "jp": "絵",
+      "furigana": "え",
+      "romaji": "e",
+      "en": "picture",
+      "theme": "Other"
+    },
+    {
+      "level": "N5",
+      "jp": "映画",
+      "furigana": "えいが",
+      "romaji": "eiga",
+      "en": "movie",
+      "theme": "Other"
+    },
+    {
+      "level": "N5",
+      "jp": "英語",
+      "furigana": "えいご",
+      "romaji": "eigo",
+      "en": "English language",
+      "theme": "Abstract & Society"
+    },
+    {
+      "level": "N5",
+      "jp": "駅",
+      "furigana": "えき",
+      "romaji": "eki",
+      "en": "station",
+      "theme": "Places & Transport"
+    },
+    {
+      "level": "N5",
+      "jp": "円",
+      "furigana": "えん",
+      "romaji": "en",
+      "en": "yen",
+      "theme": "Other"
+    },
+    {
+      "level": "N5",
+      "jp": "鉛筆",
+      "furigana": "えんぴつ",
+      "romaji": "enpitsu",
+      "en": "pencil",
+      "theme": "Home & Daily Life"
+    },
+    {
+      "level": "N5",
+      "jp": "美味しい",
+      "furigana": "おいしい",
+      "romaji": "oishii",
+      "en": "delicious",
+      "theme": "Food & Drink"
+    },
+    {
+      "level": "N5",
+      "jp": "大きい",
+      "furigana": "おおきい",
+      "romaji": "ookii",
+      "en": "big",
+      "theme": "Adjectives & Feelings"
+    },
+    {
+      "level": "N5",
+      "jp": "お金",
+      "furigana": "おかね",
+      "romaji": "okane",
+      "en": "money",
+      "theme": "Home & Daily Life"
+    },
+    {
+      "level": "N5",
+      "jp": "起きる",
+      "furigana": "おきる",
+      "romaji": "okiru",
+      "en": "to wake up",
+      "theme": "Actions & Verbs"
+    },
+    {
+      "level": "N5",
+      "jp": "送る",
+      "furigana": "おくる",
+      "romaji": "okuru",
+      "en": "to send",
+      "theme": "Actions & Verbs"
+    },
+    {
+      "level": "N5",
+      "jp": "お茶",
+      "furigana": "おちゃ",
+      "romaji": "ocha",
+      "en": "tea",
+      "theme": "Food & Drink"
+    },
+    {
+      "level": "N5",
+      "jp": "弟",
+      "furigana": "おとうと",
+      "romaji": "otouto",
+      "en": "younger brother",
+      "theme": "People & Family"
+    },
+    {
+      "level": "N5",
+      "jp": "男",
+      "furigana": "おとこ",
+      "romaji": "otoko",
+      "en": "man",
+      "theme": "People & Family"
+    },
+    {
+      "level": "N5",
+      "jp": "重い",
+      "furigana": "おもい",
+      "romaji": "omoi",
+      "en": "heavy",
+      "theme": "Adjectives & Feelings"
+    },
+    {
+      "level": "N5",
+      "jp": "面白い",
+      "furigana": "おもしろい",
+      "romaji": "omoshiroi",
+      "en": "interesting",
+      "theme": "Adjectives & Feelings"
+    },
+    {
+      "level": "N5",
+      "jp": "泳ぐ",
+      "furigana": "およぐ",
+      "romaji": "oyogu",
+      "en": "to swim",
+      "theme": "Actions & Verbs"
+    },
+    {
+      "level": "N5",
+      "jp": "終わる",
+      "furigana": "おわる",
+      "romaji": "owaru",
+      "en": "to finish",
+      "theme": "Actions & Verbs"
+    },
+    {
+      "level": "N5",
+      "jp": "音楽",
+      "furigana": "おんがく",
+      "romaji": "ongaku",
+      "en": "music",
+      "theme": "Other"
+    },
+    {
+      "level": "N5",
+      "jp": "女",
+      "furigana": "おんな",
+      "romaji": "onna",
+      "en": "woman",
+      "theme": "People & Family"
+    },
+    {
+      "level": "N5",
+      "jp": "会社",
+      "furigana": "かいしゃ",
+      "romaji": "kaisha",
+      "en": "company",
+      "theme": "School & Work"
+    },
+    {
+      "level": "N5",
+      "jp": "階段",
+      "furigana": "かいだん",
+      "romaji": "kaidan",
+      "en": "stairs",
+      "theme": "Other"
+    },
+    {
+      "level": "N5",
+      "jp": "買う",
+      "furigana": "かう",
+      "romaji": "kau",
+      "en": "to buy",
+      "theme": "Actions & Verbs"
+    },
+    {
+      "level": "N5",
+      "jp": "帰る",
+      "furigana": "かえる",
+      "romaji": "kaeru",
+      "en": "to return",
+      "theme": "Actions & Verbs"
+    },
+    {
+      "level": "N5",
+      "jp": "顔",
+      "furigana": "かお",
+      "romaji": "kao",
+      "en": "face",
+      "theme": "Other"
+    },
+    {
+      "level": "N5",
+      "jp": "鍵",
+      "furigana": "かぎ",
+      "romaji": "kagi",
+      "en": "key",
+      "theme": "Home & Daily Life"
+    },
+    {
+      "level": "N5",
+      "jp": "書く",
+      "furigana": "かく",
+      "romaji": "kaku",
+      "en": "to write",
+      "theme": "Actions & Verbs"
+    },
+    {
+      "level": "N5",
+      "jp": "学生",
+      "furigana": "がくせい",
+      "romaji": "gakusei",
+      "en": "student",
+      "theme": "School & Work"
+    },
+    {
+      "level": "N5",
+      "jp": "傘",
+      "furigana": "かさ",
+      "romaji": "kasa",
+      "en": "umbrella",
+      "theme": "Home & Daily Life"
+    },
+    {
+      "level": "N5",
+      "jp": "風",
+      "furigana": "かぜ",
+      "romaji": "kaze",
+      "en": "wind",
+      "theme": "Nature & Weather"
+    },
+    {
+      "level": "N5",
+      "jp": "家族",
+      "furigana": "かぞく",
+      "romaji": "kazoku",
+      "en": "family",
+      "theme": "People & Family"
+    },
+    {
+      "level": "N5",
+      "jp": "学校",
+      "furigana": "がっこう",
+      "romaji": "gakkou",
+      "en": "school",
+      "theme": "School & Work"
+    },
+    {
+      "level": "N5",
+      "jp": "鞄",
+      "furigana": "かばん",
+      "romaji": "kaban",
+      "en": "bag",
+      "theme": "Home & Daily Life"
+    },
+    {
+      "level": "N5",
+      "jp": "紙",
+      "furigana": "かみ",
+      "romaji": "kami",
+      "en": "paper",
+      "theme": "Home & Daily Life"
+    },
+    {
+      "level": "N5",
+      "jp": "体",
+      "furigana": "からだ",
+      "romaji": "karada",
+      "en": "body",
+      "theme": "Other"
+    },
+    {
+      "level": "N5",
+      "jp": "借りる",
+      "furigana": "かりる",
+      "romaji": "kariru",
+      "en": "to borrow",
+      "theme": "Actions & Verbs"
+    },
+    {
+      "level": "N5",
+      "jp": "軽い",
+      "furigana": "かるい",
+      "romaji": "karui",
+      "en": "light (weight)",
+      "theme": "Adjectives & Feelings"
+    },
+    {
+      "level": "N5",
+      "jp": "川",
+      "furigana": "かわ",
+      "romaji": "kawa",
+      "en": "river",
+      "theme": "Places & Transport"
+    },
+    {
+      "level": "N5",
+      "jp": "可愛い",
+      "furigana": "かわいい",
+      "romaji": "kawaii",
+      "en": "cute",
+      "theme": "Adjectives & Feelings"
+    },
+    {
+      "level": "N5",
+      "jp": "漢字",
+      "furigana": "かんじ",
+      "romaji": "kanji",
+      "en": "kanji character",
+      "theme": "School & Work"
+    },
+    {
+      "level": "N5",
+      "jp": "木",
+      "furigana": "き",
+      "romaji": "ki",
+      "en": "tree",
+      "theme": "Nature & Weather"
+    },
+    {
+      "level": "N5",
+      "jp": "聞く",
+      "furigana": "きく",
+      "romaji": "kiku",
+      "en": "to listen",
+      "theme": "Actions & Verbs"
+    },
+    {
+      "level": "N5",
+      "jp": "北",
+      "furigana": "きた",
+      "romaji": "kita",
+      "en": "north",
+      "theme": "Places & Transport"
+    },
+    {
+      "level": "N5",
+      "jp": "切手",
+      "furigana": "きって",
+      "romaji": "kitte",
+      "en": "stamp",
+      "theme": "Home & Daily Life"
+    },
+    {
+      "level": "N5",
+      "jp": "昨日",
+      "furigana": "きのう",
+      "romaji": "kinou",
+      "en": "yesterday",
+      "theme": "Time & Dates"
+    },
+    {
+      "level": "N5",
+      "jp": "今日",
+      "furigana": "きょう",
+      "romaji": "kyou",
+      "en": "today",
+      "theme": "Time & Dates"
+    },
+    {
+      "level": "N5",
+      "jp": "教室",
+      "furigana": "きょうしつ",
+      "romaji": "kyoushitsu",
+      "en": "classroom",
+      "theme": "School & Work"
+    },
+    {
+      "level": "N5",
+      "jp": "去年",
+      "furigana": "きょねん",
+      "romaji": "kyonen",
+      "en": "last year",
+      "theme": "Time & Dates"
+    },
+    {
+      "level": "N5",
+      "jp": "切る",
+      "furigana": "きる",
+      "romaji": "kiru",
+      "en": "to cut",
+      "theme": "Actions & Verbs"
+    },
+    {
+      "level": "N5",
+      "jp": "着る",
+      "furigana": "きる",
+      "romaji": "kiru",
+      "en": "to wear",
+      "theme": "Actions & Verbs"
+    },
+    {
+      "level": "N5",
+      "jp": "来る",
+      "furigana": "くる",
+      "romaji": "kuru",
+      "en": "to come",
+      "theme": "Actions & Verbs"
+    },
+    {
+      "level": "N5",
+      "jp": "きれい",
+      "furigana": "きれい",
+      "romaji": "kirei",
+      "en": "beautiful, clean",
+      "theme": "Adjectives & Feelings"
+    },
+    {
+      "level": "N5",
+      "jp": "銀行",
+      "furigana": "ぎんこう",
+      "romaji": "ginkou",
+      "en": "bank",
+      "theme": "Places & Transport"
+    },
+    {
+      "level": "N5",
+      "jp": "薬",
+      "furigana": "くすり",
+      "romaji": "kusuri",
+      "en": "medicine",
+      "theme": "Other"
+    },
+    {
+      "level": "N5",
+      "jp": "口",
+      "furigana": "くち",
+      "romaji": "kuchi",
+      "en": "mouth",
+      "theme": "Other"
+    },
+    {
+      "level": "N5",
+      "jp": "靴",
+      "furigana": "くつ",
+      "romaji": "kutsu",
+      "en": "shoes",
+      "theme": "Other"
+    },
+    {
+      "level": "N5",
+      "jp": "国",
+      "furigana": "くに",
+      "romaji": "kuni",
+      "en": "country",
+      "theme": "Places & Transport"
+    },
+    {
+      "level": "N5",
+      "jp": "暗い",
+      "furigana": "くらい",
+      "romaji": "kurai",
+      "en": "dark",
+      "theme": "Adjectives & Feelings"
+    },
+    {
+      "level": "N5",
+      "jp": "車",
+      "furigana": "くるま",
+      "romaji": "kuruma",
+      "en": "car",
+      "theme": "Places & Transport"
+    },
+    {
+      "level": "N5",
+      "jp": "黒い",
+      "furigana": "くろい",
+      "romaji": "kuroi",
+      "en": "black",
+      "theme": "Adjectives & Feelings"
+    },
+    {
+      "level": "N4",
+      "jp": "挨拶",
+      "furigana": "あいさつ",
+      "romaji": "aisatsu",
+      "en": "greeting",
+      "theme": "Other"
+    },
+    {
+      "level": "N4",
+      "jp": "間",
+      "furigana": "あいだ",
+      "romaji": "aida",
+      "en": "between",
+      "theme": "Other"
+    },
+    {
+      "level": "N4",
+      "jp": "赤ちゃん",
+      "furigana": "あかちゃん",
+      "romaji": "akachan",
+      "en": "baby",
+      "theme": "People & Family"
+    },
+    {
+      "level": "N4",
+      "jp": "上がる",
+      "furigana": "あがる",
+      "romaji": "agaru",
+      "en": "to rise",
+      "theme": "Actions & Verbs"
+    },
+    {
+      "level": "N4",
+      "jp": "空く",
+      "furigana": "あく",
+      "romaji": "aku",
+      "en": "to become empty",
+      "theme": "Actions & Verbs"
+    },
+    {
+      "level": "N4",
+      "jp": "朝寝坊",
+      "furigana": "あさねぼう",
+      "romaji": "asanebou",
+      "en": "oversleeping",
+      "theme": "Other"
+    },
+    {
+      "level": "N4",
+      "jp": "味",
+      "furigana": "あじ",
+      "romaji": "aji",
+      "en": "taste",
+      "theme": "Food & Drink"
+    },
+    {
+      "level": "N4",
+      "jp": "危ない",
+      "furigana": "あぶない",
+      "romaji": "abunai",
+      "en": "dangerous",
+      "theme": "Adjectives & Feelings"
+    },
+    {
+      "level": "N4",
+      "jp": "技術",
+      "furigana": "ぎじゅつ",
+      "romaji": "gijutsu",
+      "en": "technology",
+      "theme": "School & Work"
+    },
+    {
+      "level": "N4",
+      "jp": "規則",
+      "furigana": "きそく",
+      "romaji": "kisoku",
+      "en": "rule",
+      "theme": "Abstract & Society"
+    },
+    {
+      "level": "N4",
+      "jp": "厳しい",
+      "furigana": "きびしい",
+      "romaji": "kibishii",
+      "en": "strict",
+      "theme": "Adjectives & Feelings"
+    },
+    {
+      "level": "N4",
+      "jp": "決まる",
+      "furigana": "きまる",
+      "romaji": "kimaru",
+      "en": "to be decided",
+      "theme": "Actions & Verbs"
+    },
+    {
+      "level": "N4",
+      "jp": "決める",
+      "furigana": "きめる",
+      "romaji": "kimeru",
+      "en": "to decide",
+      "theme": "Actions & Verbs"
+    },
+    {
+      "level": "N4",
+      "jp": "着物",
+      "furigana": "きもの",
+      "romaji": "kimono",
+      "en": "kimono",
+      "theme": "Other"
+    },
+    {
+      "level": "N4",
+      "jp": "客",
+      "furigana": "きゃく",
+      "romaji": "kyaku",
+      "en": "guest",
+      "theme": "People & Family"
+    },
+    {
+      "level": "N4",
+      "jp": "教育",
+      "furigana": "きょういく",
+      "romaji": "kyouiku",
+      "en": "education",
+      "theme": "School & Work"
+    },
+    {
+      "level": "N4",
+      "jp": "競争",
+      "furigana": "きょうそう",
+      "romaji": "kyousou",
+      "en": "competition",
+      "theme": "Abstract & Society"
+    },
+    {
+      "level": "N4",
+      "jp": "興味",
+      "furigana": "きょうみ",
+      "romaji": "kyoumi",
+      "en": "interest",
+      "theme": "Abstract & Society"
+    },
+    {
+      "level": "N4",
+      "jp": "空気",
+      "furigana": "くうき",
+      "romaji": "kuuki",
+      "en": "air",
+      "theme": "Nature & Weather"
+    },
+    {
+      "level": "N4",
+      "jp": "空港",
+      "furigana": "くうこう",
+      "romaji": "kuukou",
+      "en": "airport",
+      "theme": "Places & Transport"
+    },
+    {
+      "level": "N4",
+      "jp": "草",
+      "furigana": "くさ",
+      "romaji": "kusa",
+      "en": "grass",
+      "theme": "Nature & Weather"
+    },
+    {
+      "level": "N4",
+      "jp": "首",
+      "furigana": "くび",
+      "romaji": "kubi",
+      "en": "neck",
+      "theme": "Other"
+    },
+    {
+      "level": "N4",
+      "jp": "雲",
+      "furigana": "くも",
+      "romaji": "kumo",
+      "en": "cloud",
+      "theme": "Nature & Weather"
+    },
+    {
+      "level": "N4",
+      "jp": "比べる",
+      "furigana": "くらべる",
+      "romaji": "kuraberu",
+      "en": "to compare",
+      "theme": "Actions & Verbs"
+    },
+    {
+      "level": "N4",
+      "jp": "くれる",
+      "furigana": "くれる",
+      "romaji": "kureru",
+      "en": "to give (to me)",
+      "theme": "Actions & Verbs"
+    },
+    {
+      "level": "N4",
+      "jp": "経験",
+      "furigana": "けいけん",
+      "romaji": "keiken",
+      "en": "experience",
+      "theme": "Other"
+    },
+    {
+      "level": "N4",
+      "jp": "経済",
+      "furigana": "けいざい",
+      "romaji": "keizai",
+      "en": "economy",
+      "theme": "Abstract & Society"
+    },
+    {
+      "level": "N4",
+      "jp": "警察",
+      "furigana": "けいさつ",
+      "romaji": "keisatsu",
+      "en": "police",
+      "theme": "Other"
+    },
+    {
+      "level": "N4",
+      "jp": "景色",
+      "furigana": "けしき",
+      "romaji": "keshiki",
+      "en": "scenery",
+      "theme": "Other"
+    },
+    {
+      "level": "N4",
+      "jp": "原因",
+      "furigana": "げんいん",
+      "romaji": "genin",
+      "en": "cause",
+      "theme": "Abstract & Society"
+    },
+    {
+      "level": "N4",
+      "jp": "研究",
+      "furigana": "けんきゅう",
+      "romaji": "kenkyuu",
+      "en": "research",
+      "theme": "School & Work"
+    },
+    {
+      "level": "N4",
+      "jp": "高校",
+      "furigana": "こうこう",
+      "romaji": "koukou",
+      "en": "high school",
+      "theme": "School & Work"
+    },
+    {
+      "level": "N4",
+      "jp": "工場",
+      "furigana": "こうじょう",
+      "romaji": "koujou",
+      "en": "factory",
+      "theme": "Places & Transport"
+    },
+    {
+      "level": "N4",
+      "jp": "交通",
+      "furigana": "こうつう",
+      "romaji": "koutsuu",
+      "en": "traffic",
+      "theme": "Places & Transport"
+    },
+    {
+      "level": "N4",
+      "jp": "国際",
+      "furigana": "こくさい",
+      "romaji": "kokusai",
+      "en": "international",
+      "theme": "Abstract & Society"
+    },
+    {
+      "level": "N4",
+      "jp": "心",
+      "furigana": "こころ",
+      "romaji": "kokoro",
+      "en": "heart",
+      "theme": "Other"
+    },
+    {
+      "level": "N4",
+      "jp": "故障",
+      "furigana": "こしょう",
+      "romaji": "koshou",
+      "en": "breakdown",
+      "theme": "Abstract & Society"
+    },
+    {
+      "level": "N4",
+      "jp": "細かい",
+      "furigana": "こまかい",
+      "romaji": "komakai",
+      "en": "small, detailed",
+      "theme": "Adjectives & Feelings"
+    },
+    {
+      "level": "N4",
+      "jp": "込む",
+      "furigana": "こむ",
+      "romaji": "komu",
+      "en": "to be crowded",
+      "theme": "Actions & Verbs"
+    },
+    {
+      "level": "N4",
+      "jp": "米",
+      "furigana": "こめ",
+      "romaji": "kome",
+      "en": "uncooked rice",
+      "theme": "Food & Drink"
+    },
+    {
+      "level": "N4",
+      "jp": "怖い",
+      "furigana": "こわい",
+      "romaji": "kowai",
+      "en": "scary",
+      "theme": "Adjectives & Feelings"
+    },
+    {
+      "level": "N4",
+      "jp": "壊す",
+      "furigana": "こわす",
+      "romaji": "kowasu",
+      "en": "to break",
+      "theme": "Actions & Verbs"
+    },
+    {
+      "level": "N4",
+      "jp": "今夜",
+      "furigana": "こんや",
+      "romaji": "konya",
+      "en": "tonight",
+      "theme": "Time & Dates"
+    },
+    {
+      "level": "N4",
+      "jp": "最近",
+      "furigana": "さいきん",
+      "romaji": "saikin",
+      "en": "recently",
+      "theme": "Time & Dates"
+    },
+    {
+      "level": "N4",
+      "jp": "最初",
+      "furigana": "さいしょ",
+      "romaji": "saisho",
+      "en": "first",
+      "theme": "Time & Dates"
+    },
+    {
+      "level": "N4",
+      "jp": "探す",
+      "furigana": "さがす",
+      "romaji": "sagasu",
+      "en": "to search",
+      "theme": "Actions & Verbs"
+    },
+    {
+      "level": "N4",
+      "jp": "騒ぐ",
+      "furigana": "さわぐ",
+      "romaji": "sawagu",
+      "en": "to make noise",
+      "theme": "Actions & Verbs"
+    },
+    {
+      "level": "N4",
+      "jp": "触る",
+      "furigana": "さわる",
+      "romaji": "sawaru",
+      "en": "to touch",
+      "theme": "Actions & Verbs"
+    },
+    {
+      "level": "N4",
+      "jp": "産業",
+      "furigana": "さんぎょう",
+      "romaji": "sangyou",
+      "en": "industry",
+      "theme": "Abstract & Society"
+    },
+    {
+      "level": "N4",
+      "jp": "残念",
+      "furigana": "ざんねん",
+      "romaji": "zannen",
+      "en": "regretful",
+      "theme": "Abstract & Society"
+    },
+    {
+      "level": "N4",
+      "jp": "市",
+      "furigana": "し",
+      "romaji": "shi",
+      "en": "city",
+      "theme": "Places & Transport"
+    },
+    {
+      "level": "N4",
+      "jp": "試合",
+      "furigana": "しあい",
+      "romaji": "shiai",
+      "en": "match",
+      "theme": "Other"
+    },
+    {
+      "level": "N4",
+      "jp": "事故",
+      "furigana": "じこ",
+      "romaji": "jiko",
+      "en": "accident",
+      "theme": "Abstract & Society"
+    },
+    {
+      "level": "N4",
+      "jp": "地震",
+      "furigana": "じしん",
+      "romaji": "jishin",
+      "en": "earthquake",
+      "theme": "Abstract & Society"
+    },
+    {
+      "level": "N4",
+      "jp": "時代",
+      "furigana": "じだい",
+      "romaji": "jidai",
+      "en": "era",
+      "theme": "Abstract & Society"
+    },
+    {
+      "level": "N4",
+      "jp": "失敗",
+      "furigana": "しっぱい",
+      "romaji": "shippai",
+      "en": "failure",
+      "theme": "Abstract & Society"
+    },
+    {
+      "level": "N4",
+      "jp": "島",
+      "furigana": "しま",
+      "romaji": "shima",
+      "en": "island",
+      "theme": "Places & Transport"
+    },
+    {
+      "level": "N4",
+      "jp": "社会",
+      "furigana": "しゃかい",
+      "romaji": "shakai",
+      "en": "society",
+      "theme": "Abstract & Society"
+    },
+    {
+      "level": "N4",
+      "jp": "自由",
+      "furigana": "じゆう",
+      "romaji": "jiyuu",
+      "en": "freedom",
+      "theme": "Abstract & Society"
+    },
+    {
+      "level": "N4",
+      "jp": "住所",
+      "furigana": "じゅうしょ",
+      "romaji": "juusho",
+      "en": "address",
+      "theme": "Other"
+    },
+    {
+      "level": "N4",
+      "jp": "準備",
+      "furigana": "じゅんび",
+      "romaji": "junbi",
+      "en": "preparation",
+      "theme": "Abstract & Society"
+    },
+    {
+      "level": "N4",
+      "jp": "紹介",
+      "furigana": "しょうかい",
+      "romaji": "shoukai",
+      "en": "introduction",
+      "theme": "Abstract & Society"
+    },
+    {
+      "level": "N4",
+      "jp": "将来",
+      "furigana": "しょうらい",
+      "romaji": "shourai",
+      "en": "future",
+      "theme": "Abstract & Society"
+    },
+    {
+      "level": "N4",
+      "jp": "食事",
+      "furigana": "しょくじ",
+      "romaji": "shokuji",
+      "en": "meal",
+      "theme": "Food & Drink"
+    },
+    {
+      "level": "N4",
+      "jp": "女性",
+      "furigana": "じょせい",
+      "romaji": "josei",
+      "en": "woman (female)",
+      "theme": "People & Family"
+    },
+    {
+      "level": "N4",
+      "jp": "調べる",
+      "furigana": "しらべる",
+      "romaji": "shiraberu",
+      "en": "to investigate",
+      "theme": "Actions & Verbs"
+    }
+  ]
+}
