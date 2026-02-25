@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Neko Shima — Japanese Trainer</title>
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,600;1,400&family=Calligraffitti&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app">
+      <header class="hero">
+        <div class="hero-text">
+          <h1>Neko Shima</h1>
+          <p>Japanese practice app for writing and vocabulary.</p>
+        </div>
+        <div class="auth-card" id="auth-card">
+          <div class="auth-guest" id="auth-guest">
+            <div class="auth-row">
+              <input id="auth-username" type="text" placeholder="Username" autocomplete="username" />
+              <input id="auth-password" type="password" placeholder="Password" autocomplete="current-password" />
+            </div>
+            <div class="auth-actions">
+              <button class="ghost small" id="login-btn">Login</button>
+              <button class="solid small" id="register-btn">Register</button>
+            </div>
+          </div>
+          <div class="auth-user" id="auth-user" hidden>
+            <div class="auth-name" id="auth-name"></div>
+            <div class="auth-actions">
+              <button class="ghost small" id="logout-btn">Logout</button>
+            </div>
+          </div>
+          <div class="auth-status" id="auth-status"></div>
+        </div>
+      </header>
+
+      <main class="layout">
+        <section class="menu" aria-label="Menu">
+          <button class="menu-item is-active" data-mode="hiragana">
+            <span class="menu-icon">ひ</span>
+            <span class="menu-label">Hiragana</span>
+          </button>
+          <button class="menu-item" data-mode="katakana">
+            <span class="menu-icon">カ</span>
+            <span class="menu-label">Katakana</span>
+          </button>
+          <button class="menu-item" data-mode="kanji">
+            <span class="menu-icon">漢</span>
+            <span class="menu-label">Kanji</span>
+          </button>
+          <button class="menu-item" data-mode="words">
+            <span class="menu-icon">語</span>
+            <span class="menu-label">Words</span>
+          </button>
+        </section>
+
+        <section class="practice" aria-live="polite">
+          <div class="practice-header">
+            <div>
+              <h2 id="mode-title">Hiragana</h2>
+              <p class="subtitle" id="mode-subtitle">
+                Write the symbol in the practice area.
+              </p>
+            </div>
+            <div class="header-side">
+              <div class="pickers-row">
+                <div class="picker-field">
+                  <label class="group-picker-label" for="group-picker" id="group-picker-label">Group</label>
+                  <select id="group-picker" class="group-picker"></select>
+                </div>
+                <div class="picker-field" id="kanji-level-wrap" hidden>
+                  <label class="group-picker-label" for="kanji-level-picker" id="kanji-level-label">Level</label>
+                  <select id="kanji-level-picker" class="group-picker"></select>
+                </div>
+              </div>
+              <div class="question" id="question">a</div>
+            </div>
+          </div>
+
+          <div class="canvas-wrap">
+            <canvas id="draw" width="900" height="420" aria-label="Writing area"></canvas>
+            <div class="hint-overlay" id="hint">あ</div>
+          </div>
+
+          <div class="controls">
+            <button class="ghost" id="clear">Clear</button>
+            <button class="solid" id="check">Check</button>
+            <button class="ghost" id="toggle-kanji-panel" hidden>Show Kanji info</button>
+          </div>
+
+          <div class="answer-row">
+            <button class="hint-button" id="show-hint">
+              Hint: show correct answer
+            </button>
+            <button class="hint-button" id="show-association-hint" hidden>
+              Hint: association
+            </button>
+            <button class="hint-button" id="show-example-hint" hidden>
+              Hint: example
+            </button>
+            <div class="hint-text" id="hint-text"></div>
+            <div class="progress-mini" id="progress-mini">Log in to save progress</div>
+            <div class="result" id="result"> </div>
+          </div>
+
+          <div class="words-panel" id="words-panel" hidden>
+            <div class="words-toggle">
+              <button class="pill is-active" data-direction="en-jp">EN → JP</button>
+              <button class="pill" data-direction="jp-en">JP → EN</button>
+            </div>
+            <div class="input-row" id="keyboard-row" hidden>
+              <input
+                id="text-input"
+                type="text"
+                placeholder="Type your answer"
+                lang="ja"
+                autocapitalize="off"
+                autocomplete="off"
+                spellcheck="false"
+              />
+            </div>
+          </div>
+
+          <aside class="kanji-side-panel" id="kanji-side-panel" hidden>
+            <div class="kanji-side-head">
+              <strong>Kanji Info</strong>
+              <button class="ghost small" id="close-kanji-panel">Close</button>
+            </div>
+            <div class="kanji-meta-row"><strong>Level:</strong> <span id="kanji-level"></span></div>
+            <div class="kanji-meta-row"><strong>訓読み:</strong> <span id="kanji-kunyomi"></span></div>
+            <div class="kanji-meta-row"><strong>音読み:</strong> <span id="kanji-onyomi"></span></div>
+            <div class="kanji-meta-row"><strong>Meaning:</strong> <span id="kanji-meaning"></span></div>
+            <div class="kanji-meta-row"><strong>Examples:</strong></div>
+            <ul class="kanji-examples" id="kanji-examples"></ul>
+          </aside>
+        </section>
+      </main>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
